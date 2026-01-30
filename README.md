@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-middleware.svg)](https://www.npmjs.com/package/ai-middleware)
 [![npm downloads](https://img.shields.io/npm/dm/ai-middleware.svg)](https://www.npmjs.com/package/ai-middleware)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-middleware)](https://github.com/lxgic-studios/ai-middleware/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate Express middleware from plain English descriptions. Rate limiting, auth, logging, whatever you need.
