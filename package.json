@@ -1,5 +1,5 @@
 {
-  "name": "ai-middleware",
+  "name": "@lxgicstudios/ai-middleware",
   "version": "1.0.0",
   "description": "AI-powered middleware generator - Express/Fastify middleware with GPT",
   "main": "dist/index.js",
