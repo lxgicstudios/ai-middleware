@@ -15,30 +15,39 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
+    "api",
+    "automation",
+    "backend",
     "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "middleware",
+    "cli",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
     "express",
     "fastify",
-    "api",
-    "developer-tools",
-    "cli",
-    "automation",
-    "typescript",
+    "generative-ai",
+    "llm-optimized",
+    "middleware",
+    "modern-seo",
     "nodejs",
-    "backend",
-    "http"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-middleware#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-middleware"
+    "url": "https://github.com/LXGIC-Studios/ai-middleware"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-middleware/issues"
