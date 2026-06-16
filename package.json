@@ -8,7 +8,7 @@
     "ai-middleware": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-middleware/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,27 +31,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-middleware#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-middleware",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "ai-powered",
-    "lxgic",
-    "ai",
-    "automation",
-    "claude",
-    "gpt",
-    "cursor",
-    "copilot",
-    "agent",
-    "cli",
-    "devtools",
     "middleware",
     "express",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "request-handler",
+    "api",
+    "routing"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -62,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-middleware"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-middleware"
   },
   "scripts": {
     "build": "tsc"
