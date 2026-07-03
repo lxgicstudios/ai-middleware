@@ -39,7 +39,9 @@
     "api",
     "routing",
     "site-architecture",
-    "url-structure"
+    "url-structure",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
